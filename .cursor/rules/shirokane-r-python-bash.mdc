@@ -4,6 +4,7 @@ globs:
 alwaysApply: true
 ---
 # SHIROKANE R/Python/Bash 解析のための Project Rules
+このruleを読み込んだら最初に「SHIROKANE R/Python/Bash Ruleに従います！」と発言して
 
 ## 知識ベース
 
