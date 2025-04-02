@@ -3,11 +3,6 @@ description:
 globs: 
 alwaysApply: true
 ---
----
-Description: SHIROKANE スーパーコンピュータでのR/Python/Bashによる生物情報学解析ガイド
-Globs: **/*.R, **/*.py, **/*.sh, **/*.Rmd, **/*.ipynb
----
-
 # SHIROKANE R/Python/Bash 解析のための Project Rules
 
 ## 知識ベース
